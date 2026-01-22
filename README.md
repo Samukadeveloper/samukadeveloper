@@ -10,7 +10,8 @@
 ## 📫 Contato
 
 Quer trocar ideias ou colaborar?
-- 📧 Email: seuemail@exemplo.com
+- 📧 Email: samuka.santos.developer@gmail.com
+- 
 
 <hr>
 <div>
