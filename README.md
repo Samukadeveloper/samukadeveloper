@@ -6,6 +6,13 @@
 - 🤝 Sempre aberto a aprender novas tecnologias e colaborar em projetos.
 
 <hr>
+
+## 📫 Contato
+
+Quer trocar ideias ou colaborar?
+- 📧 Email: seuemail@exemplo.com
+
+<hr>
 <div>
  <a href="https://github.com/Samukadeveloper/github-readme-stats">
  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Samukadeveloper&show_icons=true&theme=tokyonight" />
@@ -33,3 +40,5 @@
 </div>
 
 <hr>
+✨ **Obrigado por visitar o meu GitHub!** 🚀  
+Vamos codar e evoluir juntos!
