@@ -1,36 +1,35 @@
-# 👋 Olá, eu sou o Samuel.
-
-Olá! Sou estudante de programação e estou construindo minha jornada no mundo da tecnologia e do desenvolvimento de software.
-
----
-
-## 🚀 Sobre mim
+## Salve Galera, eu sou o Samuel 👋
 
 - 💻 Atualmente estudando **Python** com foco em prática e projetos reais.
 - 📚 Realizando o curso de Python no **Curso em Vídeo (Guanabara)**.
 - 📂 Compartilhando meus estudos, códigos e exercícios no GitHub para acompanhar minha evolução.
 - 🤝 Sempre aberto a aprender novas tecnologias e colaborar em projetos.
 
----
+<hr>
+<div>
+ <a href="https://github.com/Samukadeveloper/github-readme-stats">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Samukadeveloper&show_icons=true&theme=tokyonight" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samukadeveloper&&layout=compact&theme=tokyonight" />
+ </a>
+</div>
 
-## 💡 O que você encontra aqui
+<hr>
+<div>
+ <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
-Este repositório é o meu **perfil principal no GitHub**, onde documentei e organizo:
-- Estudos de Python
-- Códigos e exercícios práticos
-- Projetos pessoais
-- Anotações técnicas
 
----
+</div>
 
-## 📫 Contato
+<hr>
 
-Quer trocar ideias ou colaborar?
-- 📧 Email: samuka.santos.developer@gmail.com 
-- 🔗 LinkedIn: www.linkedin.com/in/samuel-silva-developer 
-- 🐙 GitHub: https://github.com/Samukadeveloper/
+## Socials
+<br>
+<div>
 
----
+ <a href="https://www.linkedin.com/in/samuel-silva-developer/" target="_blank">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/>
+ </a>
 
-✨ **Obrigado por visitar o meu GitHub!** 🚀  
-Vamos codar e evoluir juntos!
+</div>
+
+<hr>
